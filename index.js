@@ -2,7 +2,6 @@ let mainInput = document.getElementById("main-input");
 let lengthP = document.getElementById("length-p");
 let volumeP = document.getElementById("volume-p");
 let massP = document.getElementById("mass-p");
-mainInput.value = 0;
 
 
 function recalculate() {
