@@ -33,10 +33,6 @@ html, body {
     text-align: center;
 }
 
-#main-input::placeholder {
-    color: #ffffff;
-}
-
 #main {
     margin: 0 auto;
     padding-top: 43px;
